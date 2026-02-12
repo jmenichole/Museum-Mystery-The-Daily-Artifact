@@ -1,0 +1,7 @@
+{
+  "name": "Museum Mystery: The Daily Artifact",
+  "description": "A daily scavenger hunt game where you explore the r/MuseumOfReddit as a Snoo to find and solve mysteries surrounding legendary Reddit history.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
